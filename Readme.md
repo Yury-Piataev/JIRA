@@ -30,9 +30,9 @@
 ### Ответ:
 
 Файлы: 
-[Задачи типа bug](./gpg/Bug.xml) 
+[Задачи типа bug](./jpg/Bug.xml) 
 
-[Остальные типоы задач](./gpg/All_task.xml)
+[Остальные типоы задач](./jpg/All_task.xml)
 
 <p align="center">
   <img width="1200" height="600" src="./jpg/biz.jpg">
