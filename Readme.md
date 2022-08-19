@@ -32,20 +32,20 @@
 Файлы: 
 [Задачи типа bug](./jpg/Bug.xml) 
 
-[Остальные типоы задач](./jpg/All_task.xml)
+[Остальные типы задач](./jpg/All_task.xml)
 
 <p align="center">
-  <img width="1200" height="600" src="./jpg/biz.jpg">
+  <img width="1200" height="700" src="./jpg/biz.jpg">
 </p>
 
 <p align="center">
-  <img width="1200" height="600" src="./jpg/all.jpg">
+  <img width="1200" height="700" src="./jpg/all.jpg">
 </p>
 
 <p align="center">
-  <img width="1200" height="600" src="./jpg/bug.jpg">
+  <img width="1200" height="700" src="./jpg/bug.jpg">
 </p>
 
 <p align="center">
-  <img width="1200" height="600" src="./jpg/sprint.jpg">
+  <img width="1200" height="700" src="./jpg/sprint.jpg">
 </p>
